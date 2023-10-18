@@ -26,7 +26,7 @@ Estou colando os temas na ordem que eu acredito ser a ideal, ou, o que para eu s
       <td>01</td>
       <td>O que é a Ciência da Computação?</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/o-que-e-a-ciencia-da-computacao">
+        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Ciencia-da-Computacao/O-que-e-a-ciencia-da-computacao">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Resumo-30A3DC?style=for-the-badge">
         </a>
       </td>
@@ -35,7 +35,7 @@ Estou colando os temas na ordem que eu acredito ser a ideal, ou, o que para eu s
       <td>02</td>
       <td>Representando Números</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Representando-Numeros">
+        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Ciencia-da-Computacao/Representando-Numeros">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Resumo-E94D5F?style=for-the-badge">
         </a>
       </td>
@@ -44,7 +44,7 @@ Estou colando os temas na ordem que eu acredito ser a ideal, ou, o que para eu s
       <td>03</td>
       <td>Representando Textos</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Representando-Textos">
+        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Ciencia-da-Computacao/Representando-Textos">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Resumo-30A3DC?style=for-the-badge">
         </a>
       </td>    
@@ -53,7 +53,7 @@ Estou colando os temas na ordem que eu acredito ser a ideal, ou, o que para eu s
       <td>04</td>
       <td>Representando Imagens, Vídeos e Sons</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Representando-Imagens-Videos-Sons">
+        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Ciencia-da-Computacao/Representando-Imagens-Videos-Sons">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Resumo-E94D5F?style=for-the-badge">
         </a>
       </td>    

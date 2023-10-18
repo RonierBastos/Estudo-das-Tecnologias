@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/RonierBastos/Git-e-GitHub/blob/main/files/git-and-github-logos.png?raw=true" />
+<img src="https://github.com/RonierBastos/Estudo-das-Tecnologias/blob/main/Git-e-GitHub/files/git-and-github-logos.png?raw=true" />
 </p>
 
 # Git e GitHub
@@ -35,7 +35,7 @@ Eu assisti muitos vídeos, fiz alguns cursos grátis na Udemy, mas se eu pudesse
     <tr>
       <td>Estudos de Tecnologia</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Estudos-de-Tecnologia">
+        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Voltar%20-30A3DC?style=for-the-badge">
         </a>
       </td>

@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/RonierBastos/Ciencia-da-Computacao/main/files/codigo-binario.png" />
+<img src="https://github.com/RonierBastos/Estudo-das-Tecnologias/blob/main/Ciencia-da-Computacao/files/codigo-binario.png?raw=true" />
 </p>
 
 # Representando Números
@@ -18,7 +18,7 @@ Os computadores usam um sistema mais simples chamado **binário**, ou 
 <br/>
 
 ⚠️ **ATENÇÃO!** ⚠️
->Para facilitar o restante da leitura assista esse: [**Vídeo**](https://awesomeopensource.com/project/elangosundar/awesome-README-templates) e retorne quando acabar.
+>Para facilitar o restante da leitura assista esse: [**Vídeo**](https://www.youtube.com/watch?v=q3xLvOsqhpo&list=PLX0VJrazYICDX3T4-DXkxp4g7dpF_4xBH) e retorne quando acabar.
 
 <br/>
 
@@ -31,7 +31,7 @@ Como os computadores funcionam com eletricidade, que pode ser ligada o
 Com três lâmpadas podemos acendê-las em padrões diferentes e contar de 0 (com as três apagadas) a 7 (com as três acesas):
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/RonierBastos/Ciencia-da-Computacao/main/files/lampadas-binarios.png" />
+<img src="https://github.com/RonierBastos/Estudo-das-Tecnologias/blob/main/Ciencia-da-Computacao/files/lampadas-binarios.png?raw=true" />
 </p>
 
 Dentro dos computadores modernos, existem milhões de pequenos interruptores chamados **transistores** que podem ser ligados e desligados para representar valores diferentes. Por exemplo, sabemos que o seguinte número em decimal representa cento e vinte e três.
@@ -47,7 +47,7 @@ Dentro dos computadores modernos, existem milhões de pequenos interrupt
 Portanto, **123** é:
 ```(100 x 1) + (10x2) + (1x3) = 100 + 20 + 3 = 123```
  
-- **IMPORTANTE:** Se você não entendeu é só assistir o [**Vídeo**](https://awesomeopensource.com/project/elangosundar/awesome-README-templates) que recomendei. Para facilitar o restante do conteúdo procure sobre Potencialização, apenas para relembrar caso tenha esquecido.
+- **IMPORTANTE:** Se você não entendeu é só assistir o [**Vídeo**](https://www.youtube.com/watch?v=q3xLvOsqhpo&list=PLX0VJrazYICDX3T4-DXkxp4g7dpF_4xBH) que recomendei. Para facilitar o restante do conteúdo procure sobre Potencialização, apenas para relembrar caso tenha esquecido.
 
 <br/>
 
@@ -114,7 +114,7 @@ Se tivéssemos mais lâmpadas, poderíamos ter um valor binário de **
     <tr>
       <td>Ciência da Computação</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Ciencia-da-Computacao">
+        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Ciencia-da-Computacao">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Voltar%20-30A3DC?style=for-the-badge">
         </a>
       </td>

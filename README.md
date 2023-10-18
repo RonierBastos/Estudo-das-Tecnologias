@@ -30,7 +30,7 @@ Sinta-se a vontade para contribuir.
       <td>01</td>
       <td>Ciência da Computação</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Ciencia-da-Computacao">
+        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Ciencia-da-Computacao">
            <img align="center" alt="Clique Aqui!" src="https://img.shields.io/badge/Clique%20Aqui!-30A3DC?style=for-the-badge">
         </a>
       </td>
@@ -39,7 +39,7 @@ Sinta-se a vontade para contribuir.
       <td>02</td>
       <td>Lógica de Programação</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Logida-de-Programacao">
+        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Logica-de-Programacao">
            <img align="center" alt="Clique Aqui!" src="https://img.shields.io/badge/Clique%20Aqui!-E94D5F?style=for-the-badge">
         </a>
       </td>
@@ -48,7 +48,7 @@ Sinta-se a vontade para contribuir.
       <td>03</td>
       <td>Git e GitHub</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Git-e-GitHub">
+        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Git-e-GitHub">
            <img align="center" alt="Clique Aqui!" src="https://img.shields.io/badge/Clique%20Aqui!-30A3DC?style=for-the-badge">
         </a>
       </td>    
@@ -57,7 +57,7 @@ Sinta-se a vontade para contribuir.
       <td>04</td>
       <td>Linguagem C#</td>
       <td align="center">
-        <a href="link">
+        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Linguagem-C%23">
            <img align="center" alt="Em Breve" src="https://img.shields.io/badge/Em%20Breve!-E94D5F?style=for-the-badge">
         </a>
     </td>
@@ -65,7 +65,7 @@ Sinta-se a vontade para contribuir.
       <td>05</td>
       <td>Digitação Avançada</td>
       <td align="center">
-        <a href="link">
+        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Digitacao-Avancada">
            <img align="center" alt="Em Breve" src="https://img.shields.io/badge/Em%20Breve!-30A3DC?style=for-the-badge">
         </a>
       </td>    

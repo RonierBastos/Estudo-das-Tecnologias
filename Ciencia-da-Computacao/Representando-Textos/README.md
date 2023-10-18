@@ -61,7 +61,7 @@ Para fixar legal na cabeça o ideal é ir brincar com os conversores que deixei 
     <tr>
       <td>Ciência da Computação</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Ciencia-da-Computacao">
+        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Ciencia-da-Computacao">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Voltar%20-30A3DC?style=for-the-badge">
         </a>
       </td>

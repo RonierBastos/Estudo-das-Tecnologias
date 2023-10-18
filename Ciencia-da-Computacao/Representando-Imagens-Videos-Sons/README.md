@@ -11,7 +11,7 @@ Por exemplo, o padrão de bits **_100_** **_150_** e **_200_** pode indicar a qu
 Cada número pode ser um byte, com 256 valores possíveis, portanto, com três bytes, podemos representar milhões de cores. Nossos bytes de cima representariam um tom claro de azul:
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/RonierBastos/Ciencia-da-Computacao/main/files/cores1.PNG" />
+<img src="https://github.com/RonierBastos/Estudo-das-Tecnologias/blob/main/Ciencia-da-Computacao/files/cores1.PNG?raw=true" />
 </p>
 
 <br />
@@ -29,7 +29,7 @@ A **_resolução_** de uma imagem é o número de pixels que existem, horizontal
 Os vídeos são compostos de muitas imagens, mudando várias vezes por segundo para nos dar a aparência de movimento, como um **_flipbook_** antigo faria.
 
 <p align="center">
-<img src="https://github.com/RonierBastos/Ciencia-da-Computacao/blob/main/files/flip-book.jpg?raw=true" />
+<img src="https://github.com/RonierBastos/Estudo-das-Tecnologias/blob/main/Ciencia-da-Computacao/files/flip-book.jpg?raw=true" />
 </p>
 
 <br />
@@ -64,7 +64,7 @@ Os formatos de arquivos, como **_JPEG_** e **_PNG_**, ou documentos do Word ou E
     <tr>
       <td>Ciência da Computação</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Ciencia-da-Computacao">
+        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Ciencia-da-Computacao">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Voltar%20-30A3DC?style=for-the-badge">
         </a>
       </td>

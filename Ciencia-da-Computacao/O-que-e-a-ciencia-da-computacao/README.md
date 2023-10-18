@@ -9,7 +9,7 @@
 Podemos pensar na resolução de problemas como o processo de pegar algumas informações(detalhe sobre o nosso problema) e gerar alguns resultados(a solução para o nosso problema).
 
 <p align="center">
-<img src="https://github.com/RonierBastos/Ciencia-da-Computacao/blob/main/files/input-output.png?raw=true" />
+<img src="https://github.com/RonierBastos/Estudo-das-Tecnologias/blob/main/Ciencia-da-Computacao/files/input-output.png?raw=true" />
 </p>
 
 - A “caixa preta” no meio é a ciência da computação, ou o código que aprenderemos a escrever. Para começar a fazer isso, precisaremos de uma maneira de representar entradas (inputs) e saídas (outputs), para que possamos armazenar e trabalhar com informações de forma padronizada.
@@ -54,7 +54,7 @@ O link a seguir é o melhor conteúdo inicial sobre o tema, o resumo dele você 
     <tr>
       <td>Ciência da Computação</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Ciencia-da-Computacao">
+        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Ciencia-da-Computacao">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Voltar%20-30A3DC?style=for-the-badge">
         </a>
       </td>
