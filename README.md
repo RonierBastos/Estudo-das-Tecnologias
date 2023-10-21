@@ -72,7 +72,7 @@ Planejamento diário de acordo com o tempo desponivel
       <td>Digitação Avançada</td>
       <td align="center">
         <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Digitacao-Avancada">
-           <img align="center" alt="Em Breve" src="https://img.shields.io/badge/Em%20Breve!-30A3DC?style=for-the-badge">
+           <img align="center" alt="Em Breve" src="https://img.shields.io/badge/Clique%20Aqui!-30A3DC?style=for-the-badge">
         </a>
       </td>    
     </tr>
