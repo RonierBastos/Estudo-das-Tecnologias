@@ -64,7 +64,7 @@ Planejamento diário de acordo com o tempo desponivel
       <td>Linguagem C#</td>
       <td align="center">
         <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Linguagem-C%23">
-           <img align="center" alt="Em Breve" src="https://img.shields.io/badge/Em%20Breve!-E94D5F?style=for-the-badge">
+           <img align="center" alt="Em Breve" src="https://img.shields.io/badge/Clique%20Aqui!-E94D5F?style=for-the-badge">
         </a>
     </td>
     <tr>
