@@ -15,7 +15,7 @@ Sinta-se a vontade para contribuir.
 
 **Lembrem-se:** Feito é melhor que o perfeito, mas não pode ser mal feito
 
-## ⏰ Cronogram dos Estudos
+## ⏰ Cronograma dos Estudos
 Planejamento diário de acordo com o tempo desponivel
  - Os primeiros 30 minutos do dia treino Digitação
  - Uma hora de aulas de Ingles
