@@ -23,8 +23,15 @@ Com ela, você estará preparado para aprender qualquer linguagem e enfrentar qu
 # Recursos para Iniciantes
 
 Sites para treinar sua Lógica:
-[*BeeCrowd*](https://www.beecrowd.com.br/)
+
+1 - [*BeeCrowd*](https://www.beecrowd.com.br/)
 
 Uma plataforma que oferece desafios de codificação para ajudar a melhorar suas habilidades de programação em várias linguagens.
 
 Tem a opção em Portugues.
+
+2 - [*CodeWars*](https://www.codewars.com/)
+
+Uma plataforma que oferece desafios de codificação para ajudar a melhorar suas habilidades de programação em várias linguagens.
+
+Apena em Ingles.
