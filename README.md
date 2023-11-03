@@ -45,7 +45,7 @@ Planejamento diário de acordo com o tempo desponivel
       <td>02</td>
       <td>Lógica de Programação</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Logica-de-Programacao">
+        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Linguagem-C%23/Logica-de-Programacao">
            <img align="center" alt="Clique Aqui!" src="https://img.shields.io/badge/Clique%20Aqui!-E94D5F?style=for-the-badge">
         </a>
       </td>
