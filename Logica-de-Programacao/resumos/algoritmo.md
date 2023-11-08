@@ -41,7 +41,7 @@ O que facilita nosso entendimento é colocar esse Algoritmo de forma "visual" em
     <tr>
       <td>02 - Fluxogramas</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Ciencia-da-Computacao">
+        <a href="./fluxogramas.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Resumo-!30A3DC?style=for-the-badge">
         </a>
       </td>
