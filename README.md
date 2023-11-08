@@ -36,7 +36,7 @@ Planejamento diário de acordo com o tempo desponivel
       <td>01</td>
       <td>Ciência da Computação</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Ciencia-da-Computacao">
+        <a href="./Ciencia-da-Computacao/README.md">
            <img align="center" alt="Clique Aqui!" src="https://img.shields.io/badge/Clique%20Aqui!-30A3DC?style=for-the-badge">
         </a>
       </td>
@@ -45,7 +45,7 @@ Planejamento diário de acordo com o tempo desponivel
       <td>02</td>
       <td>Lógica de Programação</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Linguagem-C%23/Logica-de-Programacao">
+        <a href="./Logica-de-Programacao/README.md">
            <img align="center" alt="Clique Aqui!" src="https://img.shields.io/badge/Clique%20Aqui!-E94D5F?style=for-the-badge">
         </a>
       </td>
@@ -54,7 +54,7 @@ Planejamento diário de acordo com o tempo desponivel
       <td>03</td>
       <td>Git e GitHub</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Git-e-GitHub">
+        <a href="./Git-e-GitHub/README.md">
            <img align="center" alt="Clique Aqui!" src="https://img.shields.io/badge/Clique%20Aqui!-30A3DC?style=for-the-badge">
         </a>
       </td>    
@@ -63,7 +63,7 @@ Planejamento diário de acordo com o tempo desponivel
       <td>04</td>
       <td>Linguagem C#</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Linguagem-C%23">
+        <a href="./Linguagem-C#/README.md">
            <img align="center" alt="Em Breve" src="https://img.shields.io/badge/Clique%20Aqui!-E94D5F?style=for-the-badge">
         </a>
     </td>
@@ -71,7 +71,7 @@ Planejamento diário de acordo com o tempo desponivel
       <td>05</td>
       <td>Digitação Avançada</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Digitacao-Avancada">
+        <a href="./Digitacao-Avancada/README.md">
            <img align="center" alt="Em Breve" src="https://img.shields.io/badge/Clique%20Aqui!-30A3DC?style=for-the-badge">
         </a>
       </td>    

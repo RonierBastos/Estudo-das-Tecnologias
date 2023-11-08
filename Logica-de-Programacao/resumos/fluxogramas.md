@@ -42,9 +42,9 @@ Para fixar assista o vídeo abaixo.
     </tr>
   <tbody align="left">
     <tr>
-      <td>02 - Fluxogramas</td>
+      <td>03 - Em Breve</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Ciencia-da-Computacao">
+        <a href="">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Resumo-!30A3DC?style=for-the-badge">
         </a>
       </td>
@@ -52,7 +52,7 @@ Para fixar assista o vídeo abaixo.
       <tr>
       <td>Lógica de Programação</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Ciencia-da-Computacao">
+        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Logica-de-Programacao">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Voltar%20-30A3DC?style=for-the-badge">
         </a>
       </td>

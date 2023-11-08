@@ -51,7 +51,7 @@ Apena em Ingles.
       <td>01</td>
       <td>Algoritmo</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Ciencia-da-Computacao/O-que-e-a-ciencia-da-computacao">
+        <a href="./resumos/algoritmo.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Resumo-30A3DC?style=for-the-badge">
         </a>
       </td>
@@ -60,25 +60,25 @@ Apena em Ingles.
       <td>02</td>
       <td>Fluxogramas</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Ciencia-da-Computacao/Representando-Numeros">
+        <a href="./resumos/fluxogramas.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Resumo-E94D5F?style=for-the-badge">
         </a>
       </td>
     </tr>
     <tr>
       <td>03</td>
-      <td>Representando Textos</td>
+      <td>Em breve</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Ciencia-da-Computacao/Representando-Textos">
+        <a href="">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Resumo-30A3DC?style=for-the-badge">
         </a>
       </td>    
     </tr>
     <tr>
       <td>04</td>
-      <td>Representando Imagens, Vídeos e Sons</td>
+      <td>Em breve</td>
       <td align="center">
-        <a href="https://github.com/RonierBastos/Estudo-das-Tecnologias/tree/main/Ciencia-da-Computacao/Representando-Imagens-Videos-Sons">
+        <a href="">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Resumo-E94D5F?style=for-the-badge">
         </a>
       </td>    
